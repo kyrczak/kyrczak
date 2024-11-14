@@ -3,7 +3,7 @@
 ## About me
 I'm a 3rd year Computer Science student at the Gdańsk University of Technology. 
 
-I specialize in C++, Python programming languages and backend technologies. I'm deeply interested in cybersecurity and computer networks. My interests also include AI, game development and low-level programming.
+I specialize in C, C++ and Python programming languages and backend technologies. I'm deeply interested in cybersecurity and computer networks. My interests also include AI, game development and low-level programming.
 
 Previously I've gained experience in developing and maintainging Windows drivers for network interface cards. Through my university I greatly increased my abilities in Java SDK (Spring library).  
 ## My statistics
